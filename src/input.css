@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+.style{
+    @apply bg-gray-100 flex justify-center items-center min-h-screen px-6 
+}
+.style1{
+    @apply  underline font-serif italic font-semibold tracking-wide leading-relaxed text-gray-700 underline-offset-4 decoration-blue-500 decoration-2 decoration-solid
+}
+.style2{
+    @apply bg-green-200 p-4 rounded-xl shadow text-center font-medium
+}
+.style3{
+    @apply font-semibold mb-6 underline decoration-green-400 decoration-2 underline-offset-2
+}
+.style4{
+   @apply bg-purple-200 p-4 rounded-xl shadow text-center font-medium
+}
+.style5{
+    @apply bg-green-200 p-4 rounded-xl shadow text-center font-medium
+}
